@@ -4,6 +4,13 @@ This project explores how music genre preferences vary across different age grou
 
 ---
 
+## 🧪 Dataset
+
+- Source: [Kaggle](https://www.kaggle.com/datasets/yamaerenay/spotify-user-demographics)
+- Contains demographic and banking behavior data for 10,000 customers
+
+---
+
 ## 📌 Objectives
 
 - Identify music genre preferences by age group and gender  
@@ -25,7 +32,6 @@ This project explores how music genre preferences vary across different age grou
 
 In an era where personalization drives user engagement, this analysis highlights the power of target audience insights in shaping the future of music discovery and digital experiences.  
 By leveraging basic user attributes such as age and gender, content recommendations can be made more strategic while the overall user experience becomes more meaningful and sustainable. 
-**This lays the groundwork for more human-centered recommendation systems.**
 
 ---
 
@@ -34,4 +40,3 @@ By leveraging basic user attributes such as age and gender, content recommendati
 - **Python**
 - **pandas**, **seaborn**, **matplotlib**
 - **Jupyter Notebook** 
-- 📁 **Dataset source**: [Kaggle](https://www.kaggle.com/datasets/yamaerenay/spotify-user-demographics)
